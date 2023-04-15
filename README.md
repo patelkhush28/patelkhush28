@@ -33,19 +33,18 @@ I believe in public learning, and consider myself a proactive, responsible and r
 
 ## ©️ Important Links:
 
-- Projects: [github.com/himanshu-03](https://github.com/himanshu-03)
-- Linkedin: [linkedin.com/hiimanshu-agarwal](https://linkedin.com/in/hiimanshu-agarwal)
-- Kaggle: [kaggle.com/hiimanshuagarwal](https://www.kaggle.com/hiimanshuagarwal)
-- Resume: [resume/himanshu-agarwal](https://drive.google.com/file/d/1ezkwZcdzHqzjEtQ6gLJnRmRj7liq9YFC/view?usp=share_link)
+- Projects: [github.com/patelkhush28](https://github.com/patelkhush28)
+- Linkedin: [linkedin.com/khush_patel](https://www.linkedin.com/in/khush-patel-5677a4217/)
+- Kaggle: [kaggle.com/patelkhush28](https://www.kaggle.com/patelkhush28)
+- Resume: [resume/khushPatel](https://drive.google.com/file/d/1A-_Bple3Ja8YXNtAnE9f1uDl2cZmbKsl/view?usp=sharing)
 
 
 ## 🚀 Skills:
 Domain | Tech Stacks
 -------- | :-------:
-**Web** | <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
-**Languages** | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px">
+**Languages** | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40px">
 **Databases** | <img src="https://cdn-icons-png.flaticon.com/512/4726/4726022.png" width="40px"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="40px">
-**Tools** | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px"><img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="40px">
+**Tools** | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40px"><img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="40px">
 
 
  
