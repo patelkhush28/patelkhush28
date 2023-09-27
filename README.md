@@ -7,7 +7,7 @@
   
   
 ##  🙋‍♂️ About me:
-Hello! I'm Khush, a third-year Computer Science and Engineering (Data Science) student, a software developer who loves to explore and contribute to the world.
+Hello! I'm Khush, a fourth-year Computer Science and Engineering (Data Science) student, a software developer who loves to explore and contribute to the world.
 I usually work on **Data Analysing**, **Machine Learning**, and **JAVA Developer**.
 
 I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
